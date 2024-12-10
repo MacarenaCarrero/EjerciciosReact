@@ -1,0 +1,53 @@
+.card {
+	width: 327px;
+	height: 500px;
+	padding: 48px;
+	color: #ffffff75;
+}
+
+.orange {
+	background-color: #e28625;
+}
+
+.orange .button {
+	color: #e28625;
+}
+
+.blue {
+	background-color: #006971;
+}
+.blue .button {
+	color: #006971;
+}
+
+.green {
+	background-color: #004140;
+}
+.green .button {
+	color: #004140;
+}
+
+.button {
+	width: 146px;
+	height: 48px;
+	border: none;
+	background-color: #f2f2f2;
+	border-radius: 25px;
+}
+.icon {
+	width: 64px;
+	height: 40px;
+	margin-bottom: 35px;
+}
+
+.text {
+	margin-bottom: 83px;
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+.title {
+	margin-bottom: 35px;
+	font-family: 'Big Shoulders Display', sans-serif;
+	font-size: 40px;
+}
